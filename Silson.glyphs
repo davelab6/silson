@@ -10,7 +10,7 @@ code = "";
 name = DevaIMatras;
 }
 );
-copyright = "Copyright (c) 2015-2016, Simon Cozens (simon@simon-cozens.org)";
+copyright = "Copyright (c) 2015-2016, The Silson Project Authors.";
 customParameters = (
 {
 name = fsType;
